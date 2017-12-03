@@ -1,0 +1,24 @@
+group 'ariman'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("com.github.tomakehurst:wiremock:2.11.0")
+    }
+}
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile('com.github.tomakehurst:wiremock:2.5.0')
+//    compile('org.slf4j:slf4j-simple:1.7.9')
+}
