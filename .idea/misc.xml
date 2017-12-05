@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../my/study/OpenCV_Workshop" value="2965832538000" />
+        <entry key="$PROJECT_DIR$/../../SBD-google-book-api" value="3020426244000" />
+        <entry key="$PROJECT_DIR$/../../SBD-simple-ui" value="3020431118000" />
+        <entry key="$PROJECT_DIR$/../../SpringBootDemoAdmin" value="3020598568000" />
+        <entry key="$PROJECT_DIR$/../../SpringBootDemoFrontend" value="3020595760000" />
+        <entry key="$PROJECT_DIR$/../../WireMock-Demo" value="3024048994000" />
+        <entry key="$PROJECT_DIR$/../../WireMockDemo" value="3022707576000" />
+        <entry key="$PROJECT_DIR$/../../WireMock_BiaoGe_Demo/SBD-google-book-api-master" value="3023240116000" />
+        <entry key="$PROJECT_DIR$/../../WireMock_BiaoGe_Demo/SBD-simple-api-master" value="3019670196000" />
+        <entry key="$PROJECT_DIR$/../../WireMock_BiaoGe_Demo/SBD-simple-ui-master" value="3020855468000" />
+        <entry key="$PROJECT_DIR$/../../Wiremock-Demo-Java-master" value="3023474240000" />
+        <entry key="$PROJECT_DIR$/../../gs-rest-service/complete" value="1511770021000" />
+        <entry key="$PROJECT_DIR$" value="3024747497000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -97,5 +123,21 @@
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
